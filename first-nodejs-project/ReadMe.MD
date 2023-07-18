@@ -38,6 +38,9 @@ npm i -D @types/node
 ```
 6. create tsconfig.json file to config typescript environment
 
-
-
+7. using git command
+   git config --list
+   git config --global user.email "you@example.com"
+   git config --global user.name "Your Name"
+   git config --global user.password "your password"
 
